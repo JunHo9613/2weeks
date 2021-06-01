@@ -1,0 +1,7 @@
+D:\Lecture\_02_CSharpGrammar\_10_while\bin\Debug\_10_while.exe.config
+D:\Lecture\_02_CSharpGrammar\_10_while\bin\Debug\_10_while.exe
+D:\Lecture\_02_CSharpGrammar\_10_while\bin\Debug\_10_while.pdb
+D:\Lecture\_02_CSharpGrammar\_10_while\obj\Debug\_10_while.csprojAssemblyReference.cache
+D:\Lecture\_02_CSharpGrammar\_10_while\obj\Debug\_10_while.csproj.CoreCompileInputs.cache
+D:\Lecture\_02_CSharpGrammar\_10_while\obj\Debug\_10_while.exe
+D:\Lecture\_02_CSharpGrammar\_10_while\obj\Debug\_10_while.pdb

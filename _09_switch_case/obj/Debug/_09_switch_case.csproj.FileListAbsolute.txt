@@ -1,0 +1,6 @@
+D:\Lecture\_02_CSharpGrammar\_09_switch_case\bin\Debug\_09_switch_case.exe.config
+D:\Lecture\_02_CSharpGrammar\_09_switch_case\bin\Debug\_09_switch_case.exe
+D:\Lecture\_02_CSharpGrammar\_09_switch_case\bin\Debug\_09_switch_case.pdb
+D:\Lecture\_02_CSharpGrammar\_09_switch_case\obj\Debug\_09_switch_case.csproj.CoreCompileInputs.cache
+D:\Lecture\_02_CSharpGrammar\_09_switch_case\obj\Debug\_09_switch_case.exe
+D:\Lecture\_02_CSharpGrammar\_09_switch_case\obj\Debug\_09_switch_case.pdb
