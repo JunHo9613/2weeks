@@ -1,0 +1,6 @@
+D:\Lecture\_02_CSharpGrammar\_02_DataType\bin\Debug\_02_DataType.exe.config
+D:\Lecture\_02_CSharpGrammar\_02_DataType\bin\Debug\_02_DataType.exe
+D:\Lecture\_02_CSharpGrammar\_02_DataType\bin\Debug\_02_DataType.pdb
+D:\Lecture\_02_CSharpGrammar\_02_DataType\obj\Debug\_02_DataType.csproj.CoreCompileInputs.cache
+D:\Lecture\_02_CSharpGrammar\_02_DataType\obj\Debug\_02_DataType.exe
+D:\Lecture\_02_CSharpGrammar\_02_DataType\obj\Debug\_02_DataType.pdb

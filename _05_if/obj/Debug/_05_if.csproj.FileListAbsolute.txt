@@ -1,0 +1,6 @@
+D:\Lecture\_02_CSharpGrammar\_05_if\bin\Debug\_05_if.exe.config
+D:\Lecture\_02_CSharpGrammar\_05_if\bin\Debug\_05_if.exe
+D:\Lecture\_02_CSharpGrammar\_05_if\bin\Debug\_05_if.pdb
+D:\Lecture\_02_CSharpGrammar\_05_if\obj\Debug\_05_if.csproj.CoreCompileInputs.cache
+D:\Lecture\_02_CSharpGrammar\_05_if\obj\Debug\_05_if.exe
+D:\Lecture\_02_CSharpGrammar\_05_if\obj\Debug\_05_if.pdb

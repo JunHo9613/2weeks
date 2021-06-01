@@ -1,0 +1,7 @@
+D:\Lecture\_02_CSharpGrammar\_06_if_else\bin\Debug\_06_if_else.exe.config
+D:\Lecture\_02_CSharpGrammar\_06_if_else\bin\Debug\_06_if_else.exe
+D:\Lecture\_02_CSharpGrammar\_06_if_else\bin\Debug\_06_if_else.pdb
+D:\Lecture\_02_CSharpGrammar\_06_if_else\obj\Debug\_06_if_else.csprojAssemblyReference.cache
+D:\Lecture\_02_CSharpGrammar\_06_if_else\obj\Debug\_06_if_else.csproj.CoreCompileInputs.cache
+D:\Lecture\_02_CSharpGrammar\_06_if_else\obj\Debug\_06_if_else.exe
+D:\Lecture\_02_CSharpGrammar\_06_if_else\obj\Debug\_06_if_else.pdb

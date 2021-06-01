@@ -1,0 +1,7 @@
+D:\Lecture\_02_CSharpGrammar\_08_if_arith\bin\Debug\_08_if_arith.exe.config
+D:\Lecture\_02_CSharpGrammar\_08_if_arith\bin\Debug\_08_if_arith.exe
+D:\Lecture\_02_CSharpGrammar\_08_if_arith\bin\Debug\_08_if_arith.pdb
+D:\Lecture\_02_CSharpGrammar\_08_if_arith\obj\Debug\_08_if_arith.csprojAssemblyReference.cache
+D:\Lecture\_02_CSharpGrammar\_08_if_arith\obj\Debug\_08_if_arith.csproj.CoreCompileInputs.cache
+D:\Lecture\_02_CSharpGrammar\_08_if_arith\obj\Debug\_08_if_arith.exe
+D:\Lecture\_02_CSharpGrammar\_08_if_arith\obj\Debug\_08_if_arith.pdb

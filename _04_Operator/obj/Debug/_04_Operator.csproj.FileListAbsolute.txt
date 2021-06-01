@@ -1,0 +1,7 @@
+D:\Lecture\_02_CSharpGrammar\_04_Operator\bin\Debug\_04_Operator.exe.config
+D:\Lecture\_02_CSharpGrammar\_04_Operator\bin\Debug\_04_Operator.exe
+D:\Lecture\_02_CSharpGrammar\_04_Operator\bin\Debug\_04_Operator.pdb
+D:\Lecture\_02_CSharpGrammar\_04_Operator\obj\Debug\_04_Operator.csprojAssemblyReference.cache
+D:\Lecture\_02_CSharpGrammar\_04_Operator\obj\Debug\_04_Operator.csproj.CoreCompileInputs.cache
+D:\Lecture\_02_CSharpGrammar\_04_Operator\obj\Debug\_04_Operator.exe
+D:\Lecture\_02_CSharpGrammar\_04_Operator\obj\Debug\_04_Operator.pdb
